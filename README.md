@@ -1,0 +1,1 @@
+This ia a Tableau Project. I create the British Airway Review based on the review and country raw data. The visualization easy for monitoring. All the Data obtained from Mo Chen Raw data from Youtube.
